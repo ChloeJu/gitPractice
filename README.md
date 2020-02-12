@@ -1,42 +1,16 @@
 # gitPractice
-Heading
+An interesting web
 =======
 
-Sub-heading
+link
 -----------
+https://catlikecoding.com/unity/tutorials/
 
-Paragraphs are separated
-by a blank line.
 
-Two spaces at the end of a line  
-produces a line break.
 
-Text attributes _italic_, 
-**bold**, `monospace`.
+Why Interesting
+-----------
+This link is about C# and shader programming for Unity. They build on one another, introducing new programming concepts, math, algorithms, and Unity features. They're useful to both novice and experienced developers.
+I recommand people who are interested in game development or visulization of data to take a look.
+Thank you!
 
-Horizontal rule:
-
----
-
-Strikethrough:
-~~strikethrough~~
-
-Bullet list:
-
-  * apples
-  * oranges
-  * pears
-
-Numbered list:
-
-  1. lather
-  2. rinse
-  3. repeat
-
-An [example](http://example.com).
-
-![Image](Icon-pictures.png "icon")
-
-> Markdown uses email-style > characters for blockquoting.
-
-Inline <abbr title="Hypertext Markup Language">HTML</abbr> is supported.
