@@ -1,2 +1,4 @@
 # gitPractice
-testGitAndGithub
+www.google.com
+lalalalla
+test
